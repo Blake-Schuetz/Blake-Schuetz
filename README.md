@@ -1,4 +1,4 @@
-# blakeschuetz
+# Blake-Schuetz
 Github profile README
 
 ### Hi there
